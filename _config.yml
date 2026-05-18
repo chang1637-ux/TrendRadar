@@ -1,0 +1,6 @@
+title: TrendRadar
+description: AI驱动的趋势分析平台
+# Skip all Jekyll processing - serve files as-is
+exclude:
+  - "*"
+  - "*/**"
